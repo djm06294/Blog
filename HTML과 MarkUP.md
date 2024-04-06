@@ -18,3 +18,10 @@ markdown은 수식 없이 데이터를 표시하기 위한 markup 언어의 일�
 
 ---
 참고url: [Kwon Sukhyun Velog](https://velog.io/@sukhyun205/MarkUP%EA%B3%BC-MarkDown%EC%9D%98-%EC%B0%A8%EC%9D%B4)
+
+
+*기울기*
+**굵게**
+__굵게?__
+***기울고굵게***
+***<U>굵게밑줄</U>***
